@@ -21007,9 +21007,9 @@
     "restore": {
       "projectUniqueName": "Process2",
       "projectName": "Process2",
-      "projectPath": "C:\\Users\\CTESTBOTa\\Documents\\UiPath\\Process2\\.local",
+      "projectPath": "C:\\Users\\CTESTBOTa\\Documents\\UiPath\\Process_2\\.local",
       "packagesPath": "C:\\Users\\CTESTBOTa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CTESTBOTa\\Documents\\UiPath\\Process2\\.local"
+      "outputPath": "C:\\Users\\CTESTBOTa\\Documents\\UiPath\\Process_2\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
